@@ -25,7 +25,7 @@ Users can search for a movie, and the system suggests 5 similar titles.
 ---
 
 ## 🎥 Demo
-![Demo Screenshot](demo.png)
+https://www.linkedin.com/posts/umme-kulsum-6885a0310_codsoft-internship-ai-activity-7372642642175737856-Z8-N?utm_source=share&utm_medium=member_android&rcm=ACoAAE8b6cgBsjmmqnSqm2bsNAzYr5xYHBDZIOM
 
 ---
 
